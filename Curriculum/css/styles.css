@@ -1,0 +1,112 @@
+
+header {
+    
+    height: 350px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-image: url(/resources/frontWoman.png);
+    background-size: contain;
+    background-position: center center;
+    background-repeat: repeat-x;
+}
+
+.fotoPersonal {
+    height: 300px;
+    border-radius: 50px;
+    
+}
+
+.fondoTitulo {
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: #DFD2E8;
+}
+
+.fondoSubTitulo {
+    height: 50px;
+    align-items: center;
+    display: flex;
+    background: #DFD2E8;
+    padding-left: 10px;
+}
+
+h1 {
+    font-family: Calibri;   
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 90%;
+    font-feature-settings: 'cpsp' on;
+    color: #005677;
+}
+
+h2 {
+    font-family: Calibri;   
+    font-style: normal;
+    font-size: 30px;
+    line-height: 90%;
+    font-feature-settings: 'cpsp' on;
+    color: #005677;
+}
+
+.infoPersonal_Li{
+    left: 39px;
+    top: 429px;
+
+    font-family: Calibri;
+    font-size: 25px;
+
+}
+
+.infoPersonal {
+    font-family: Calibri;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.range_date {
+    font-family: Calibri;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.forAcademica {
+    font-family: Calibri;
+    font-size: 20px;
+}
+
+.Caja1 {
+    height: 120px;
+}
+
+.Caja2 {
+    height: 150px;
+}
+
+.sangria {
+    padding-left: 85px;
+}
+
+img {
+    height: 30px;
+    width: 30px;
+    margin-left: 26px;
+}
+
+footer {
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background: #8438DF;
+
+
+    font-family: Calibri;   
+    font-weight: bold;
+    font-size: 25px;
+    color: white;
+}
